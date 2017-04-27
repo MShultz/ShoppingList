@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="updateButton">Update</string>
+    <string name="addButton">Add</string>
+    <string name="item">New Item</string>
+</resources>
